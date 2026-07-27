@@ -175,13 +175,9 @@ Current Mode............ BUILDING THE FUTURE 🚀
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=srichaitanya2004&repo=Spiritual_Companion&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/srichaitanya2004/KrishiAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srichaitanya2004&repo=KrishiAI&theme=tokyonight&hide_border=true"/>
-</a>
 
 </p>
 
-> **Note:** If these repository names are different, replace them with your actual repository names.
 
 ---
 
