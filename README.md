@@ -1,12 +1,11 @@
 <!-- ========================================================= -->
-<!-- Replace this comment with your hacker banner image later. -->
+<!-- Upload your hacker banner to assets/hacker-banner.png      -->
+<!-- Then replace the src below if needed.                      -->
 <!-- ========================================================= -->
 
-<!--
 <p align="center">
-  <img src="YOUR_HACKER_BANNER_URL" width="100%">
+  <img src="assets/hacker-banner.png" width="100%" alt="Cyberpunk Hacker Banner"/>
 </p>
--->
 
 <h1 align="center">Hi 👋 I'm Sri Chaitanya</h1>
 
@@ -15,84 +14,65 @@
 </p>
 
 ```text
-╔════════════════════════════════════════════════════════════════════╗
-║                     DEVELOPER TERMINAL v2.0                      ║
-╚════════════════════════════════════════════════════════════════════╝
+███████╗██████╗ ██╗
+██╔════╝██╔══██╗██║
+███████╗██████╔╝██║
+╚════██║██╔══██╗██║
+███████║██║  ██║██║
+╚══════╝╚═╝  ╚═╝╚═╝
+
+              D E V E L O P E R   T E R M I N A L
+
+══════════════════════════════════════════════════════════════════════
 
 > boot developer_profile
 
 Loading Java.............................................✓
-
 Loading Flutter..........................................✓
-
 Loading Firebase.........................................✓
-
 Loading TensorFlow.......................................✓
-
 Loading AI Workspace.....................................✓
-
 Authenticating GitHub....................................SUCCESS
 
 ────────────────────────────────────────────────────────────────────
 
 OS...................... Windows 11
-
 Host.................... IIIT Bhagalpur
-
 Kernel.................. MirAI AI Builder
-
 Role.................... B.Tech CSE (AI & Data Science)
-
 Status.................. ONLINE
 
 ────────────────────────────────────────────────────────────────────
 
 Languages............... Java
-
 ........................ Python
-
 ........................ Dart
-
 ........................ JavaScript
-
 ........................ C
 
 Frameworks.............. Flutter
-
 ........................ Spring Boot (Learning)
 
 Database................ Firebase
-
 ........................ Supabase
 
 AI / ML................. TensorFlow
-
 ........................ Keras
 
 Developer Tools......... Git
-
 ........................ GitHub
-
 ........................ Android Studio
-
 ........................ VS Code
 
 Projects................ Spiritual Companion
-
 ........................ Krishi AI
-
 ........................ Cow Breed Detection
-
 ........................ DSA Practice Tracker
 
 Interests............... Artificial Intelligence
-
 ........................ Android Development
-
 ........................ System Design
-
 ........................ Competitive Programming
-
 ........................ Chess
 
 Email................... srichaitanya1872004.vcm@gmail.com
@@ -113,9 +93,7 @@ Current Mode............ BUILDING THE FUTURE 🚀
 # 🚀 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,firebase,supabase,git,github,vscode,androidstudio,tensorflow"/>
-
 </p>
 
 ---
@@ -123,11 +101,9 @@ Current Mode............ BUILDING THE FUTURE 🚀
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=srichaitanya2004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srichaitanya2004&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -135,9 +111,7 @@ Current Mode............ BUILDING THE FUTURE 🚀
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=srichaitanya2004&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -145,9 +119,7 @@ Current Mode............ BUILDING THE FUTURE 🚀
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srichaitanya2004&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -155,9 +127,7 @@ Current Mode............ BUILDING THE FUTURE 🚀
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=srichaitanya2004&theme=tokyonight&margin-w=12&no-frame=true&no-bg=true"/>
-
 </p>
 
 ---
@@ -184,7 +154,7 @@ Current Mode............ BUILDING THE FUTURE 🚀
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=srichaitanya2004&style=for-the-badge&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=srichaitanya2004&style=for-the-badge&color=brightgreen"/>
 
 </p>
 
