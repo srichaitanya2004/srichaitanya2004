@@ -1,16 +1,49 @@
-## Hi there 👋
+# Sri Chaitanya
 
-<!--
-**srichaitanya2004/srichaitanya2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Initializing developer profile...
 
-Here are some ideas to get you started:
+> Loading modules...
+> Java ................. OK
+> Flutter .............. OK
+> Python ............... OK
+> Firebase ............. OK
+> Machine Learning ..... OK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------
+SYSTEM INFORMATION
+----------------------------------------------
+
+OS................. Windows 11
+Kernel............. MirAI AI Builder
+Role............... B.Tech CSE (AI & DS)
+Status............. Learning • Building • Improving
+Editor............. VS Code / Android Studio
+
+----------------------------------------------
+
+Languages.......... Java, Python, Dart, C, JavaScript
+
+Frameworks......... Flutter, Spring Boot (Learning)
+
+Database........... Firebase, Supabase
+
+AI/ML.............. TensorFlow, Keras
+
+Tools.............. Git, GitHub
+
+Projects........... Spiritual Companion
+................... Krishi AI
+................... Cow Breed Detection
+
+Interests.......... Android Development
+................... Artificial Intelligence
+................... DSA
+................... Chess
+
+Location........... India
+
+----------------------------------------------
+
+> System Ready.
+```
